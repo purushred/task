@@ -110,4 +110,4 @@ kafka-console-consumer.sh \
             --from-beginning
 ```
 
-#### Note: The process can be simplified by using ingress module.
+> Note: The process can be enhanced by using ingress module.

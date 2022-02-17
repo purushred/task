@@ -1,6 +1,7 @@
 # Coding Challenge
 This project is to meet all the requirements given in the coding challenge. 
 It also includes the following parts of the exercise.
+
 Part 1 - The Web Service
 
 Part 3 - Describe how to run your application
@@ -109,4 +110,4 @@ kafka-console-consumer.sh \
             --from-beginning
 ```
 
-### Note: The process can be simplified by using ingress in kubernetes.
+#### Note: The process can be simplified by using ingress module.
